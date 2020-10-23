@@ -8,6 +8,8 @@ public class cls1 {
 		System.out.println("Shekhar");
 
 		System.out.println("Mohan");
+		
+		System.out.println("SOHAN");
 
 	}
 
