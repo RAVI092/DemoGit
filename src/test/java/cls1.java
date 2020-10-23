@@ -9,6 +9,9 @@ public class cls1 {
 
 		System.out.println("Mohan");
 		
+
+		System.out.println("RAJ");
+
 		System.out.println("SOHAN");
 
 	}
