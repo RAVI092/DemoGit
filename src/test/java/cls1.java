@@ -13,6 +13,7 @@ public class cls1 {
 		System.out.println("RAJ");
 
 		System.out.println("SOHAN");
+		System.out.println("Suresh");
 
 	}
 
